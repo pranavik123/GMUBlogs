@@ -1,0 +1,30 @@
+.blog-list {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+  }
+  h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 20px;
+  }
+  
+  .blog-pre {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    max-width: 600px;
+  }
+  
+  .blog-pre h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .blog-pre p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
